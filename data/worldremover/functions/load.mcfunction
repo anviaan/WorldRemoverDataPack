@@ -1,1 +1,1 @@
-say World Remover activated
+scoreboard objectives add worldremover trigger

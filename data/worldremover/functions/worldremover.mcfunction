@@ -1,0 +1,1 @@
+execute as @p unless score @p worldremover matches 0 run function worldremover:remover
