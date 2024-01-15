@@ -7,10 +7,10 @@ This is perfect if you are developing a mod or datapack that generates new Ores 
 
 ##Usage
 - Activate
-```mcfunction
+```
 /trigger worldremover set 1
 ```
 - Deactivate
-```mcfunction
+```
 /trigger worldremover set 0
 ```
